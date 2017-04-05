@@ -1,0 +1,3 @@
+this is a test for python.
+please open this file of ssq.txt.
+read a file test.
